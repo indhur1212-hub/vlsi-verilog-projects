@@ -16,3 +16,4 @@ This project implements a Half Adder using Verilog HDL.
 
 ### Author
 R Indhu
+ECE | VLSI Frontend Aspirant
